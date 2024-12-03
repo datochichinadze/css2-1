@@ -1,0 +1,178 @@
+#product {
+    color: #323232;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 90px;
+}
+
+#service {
+    color: #323232;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 15px;
+}
+
+#resources {
+    color: #323232;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 15px;
+}  
+
+#offers {
+    color: #323232;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 15px;
+}
+
+#first {
+    width: 1140px;
+    padding: 12px 80px;
+    display: inline-block;
+}
+
+#name {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#contact {
+    color: #AC00FF;
+    font-size: 14px;
+    font-weight: 500;
+    display: inline-block;
+    border-radius: 8px;
+    border: 1px solid #AC00FF;
+    background: #E9D7FE;
+    padding: 6px 8px;
+    margin-left: 90px;
+}
+
+h1 {
+    color: #323232;
+    font-size: 64px;
+    font-weight: 400;
+    width: 720px;
+}
+
+#last {
+    width: 841px;
+    margin-left: 214px;
+    margin-top: 136px;
+}
+
+#money {
+    color: #323232;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+#just {
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 500;
+    width: 204px;
+    padding: 16px 24px;
+    border-radius: 8px;
+    background-color: #5C3BAE;
+    text-align: center;
+    display: inline-block;
+}
+
+#photo {
+    width: 32px;
+    height: 32px;
+    margin-left: 25px;
+    vertical-align: middle;
+}
+
+#watch {
+    color: #4D3491;
+    font-size: 18px;
+    font-weight: 500;
+    vertical-align: middle;
+}
+
+#second {
+    width: 1311px;
+    border-radius: var(--radius-2xl, 16px);
+    display: inline-block;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+
+#card {
+    width: 315,805px;
+    height: 189.961px;
+    border-radius: var(--radius-2xl, 16px);
+    margin-left: 500px;
+}
+
+#master {
+    width: 315,805px;
+    height: 189.961px;
+    border-radius: var(--radius-2xl, 16px);
+    margin-left: 400px;
+}
+
+#plus {
+    width: 315,805px;
+    height: 189.961px;
+    border-radius: var(--radius-2xl, 16px);
+    margin-left: 300px;
+}
+
+#standart {
+    width: 315,805px;
+    height: 189.961px;
+    border-radius: var(--radius-2xl, 16px);
+    
+}
+
+#student {
+    width: 315,805px;
+    height: 189.961px;
+    border-radius: var(--radius-2xl, 16px);
+    
+}
+
+#school {
+    width: 315,805px;
+    height: 189.961px;
+    border-radius: var(--radius-2xl, 16px);
+    
+}
+
+#clasic {
+    width: 315,805px;
+    height: 189.961px;
+    border-radius: var(--radius-2xl, 16px);
+    
+}
+
+#untitled {
+    width: 315,805px;
+    height: 189.961px;
+    border-radius: var(--radius-2xl, 16px);
+    
+}
+
+#baker {
+    width: 315,805px;
+    height: 189.961px;
+    border-radius: var(--radius-2xl, 16px);
+    
+}
