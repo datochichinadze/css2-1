@@ -108,71 +108,9 @@ h1 {
 
 #second {
     width: 1311px;
-    border-radius: var(--radius-2xl, 16px);
+    height: 761px;
     display: inline-block;
     margin-left: 200px;
     margin-top: 20px;
 }
 
-#card {
-    width: 315,805px;
-    height: 189.961px;
-    border-radius: var(--radius-2xl, 16px);
-    margin-left: 500px;
-}
-
-#master {
-    width: 315,805px;
-    height: 189.961px;
-    border-radius: var(--radius-2xl, 16px);
-    margin-left: 400px;
-}
-
-#plus {
-    width: 315,805px;
-    height: 189.961px;
-    border-radius: var(--radius-2xl, 16px);
-    margin-left: 300px;
-}
-
-#standart {
-    width: 315,805px;
-    height: 189.961px;
-    border-radius: var(--radius-2xl, 16px);
-    
-}
-
-#student {
-    width: 315,805px;
-    height: 189.961px;
-    border-radius: var(--radius-2xl, 16px);
-    
-}
-
-#school {
-    width: 315,805px;
-    height: 189.961px;
-    border-radius: var(--radius-2xl, 16px);
-    
-}
-
-#clasic {
-    width: 315,805px;
-    height: 189.961px;
-    border-radius: var(--radius-2xl, 16px);
-    
-}
-
-#untitled {
-    width: 315,805px;
-    height: 189.961px;
-    border-radius: var(--radius-2xl, 16px);
-    
-}
-
-#baker {
-    width: 315,805px;
-    height: 189.961px;
-    border-radius: var(--radius-2xl, 16px);
-    
-}
